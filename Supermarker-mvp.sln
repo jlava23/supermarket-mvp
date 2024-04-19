@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarker-mvp", "Supermarker-mvp.csproj", "{9EB483A3-91BA-4088-8AE3-D73F05C9908E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Supermarker-mvp", "Supermarker-mvp.csproj", "{9EB483A3-91BA-4088-8AE3-D73F05C9908E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

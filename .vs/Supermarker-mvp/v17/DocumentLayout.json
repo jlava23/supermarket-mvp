@@ -1,12 +1,178 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|c:\\users\\aprendiz_ti\\source\\repos\\supermarker-mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\paymodeview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:views\\paymodeview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\paymodeview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:views\\paymodeview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\supermarker-mvp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EB483A3-91BA-4088-8AE3-D73F05C9908E}|Supermarker-mvp.csproj|solutionrelative:supermarker-mvp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayModeView.resx",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.resx",
+              "RelativeDocumentMoniker": "views\\PayModeView.resx",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.resx",
+              "RelativeToolTip": "views\\PayModeView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-18T18:52:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayModeView.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.cs",
+              "RelativeDocumentMoniker": "views\\PayModeView.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.cs",
+              "RelativeToolTip": "views\\PayModeView.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:48:27.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-18T16:26:34.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayModeView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.cs",
+              "RelativeDocumentMoniker": "views\\PayModeView.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "views\\PayModeView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:38:26.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:25:58.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayModeView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.Designer.cs",
+              "RelativeDocumentMoniker": "views\\PayModeView.Designer.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\PayModeView.Designer.cs",
+              "RelativeToolTip": "views\\PayModeView.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:53:53.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPayModeView.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\IPayModeView.cs",
+              "RelativeDocumentMoniker": "views\\IPayModeView.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\views\\IPayModeView.cs",
+              "RelativeToolTip": "views\\IPayModeView.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:35:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPayModeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Models\\IPayModeRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IPayModeRepository.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Models\\IPayModeRepository.cs",
+              "RelativeToolTip": "Models\\IPayModeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:14:05.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PayModeModel.cs",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Models\\PayModeModel.cs",
+              "RelativeDocumentMoniker": "Models\\PayModeModel.cs",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Models\\PayModeModel.cs",
+              "RelativeToolTip": "Models\\PayModeModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:46:50.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supermarker-mvp.csproj",
+              "DocumentMoniker": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Supermarker-mvp.csproj",
+              "RelativeDocumentMoniker": "Supermarker-mvp.csproj",
+              "ToolTip": "C:\\Users\\aprendiz_ti\\source\\repos\\Supermarker-mvp\\Supermarker-mvp.csproj",
+              "RelativeToolTip": "Supermarker-mvp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T14:17:50.153Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
